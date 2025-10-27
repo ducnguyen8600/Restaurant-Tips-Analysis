@@ -61,7 +61,7 @@ Tip amounts are generally higher on weekends and during dinner service.
 
 
 
-For detailed analysis and all visualizations see the 
+For detailed analysis and all visualizations see the [Restaurant_tips_analysis](https://github.com/ducnguyen8600/Restaurant-Tips-Analysis/blob/main/Duc_Restaurant_tips_analysis.ipynb)
 
 
 
